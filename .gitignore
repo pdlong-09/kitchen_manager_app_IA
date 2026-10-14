@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# created when the app runs: the database and its CSV copy hold your own kitchen data
+kitchen.db
+items.csv
+
+.DS_Store
