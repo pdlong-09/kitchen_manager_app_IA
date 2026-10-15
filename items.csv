@@ -1,0 +1,267 @@
+item_id,name,item_type,category,quantity,unit,location_code,expiry_date,low_stock_level,restock_date,notes
+1,NZProtein Egg White Protein (natural unflavoured),Supplement,Protein Powder,1,bag,A1,,0,,"1 kg pouch, partly used"
+2,Creatine Monohydrate powder,Supplement,Protein Powder,1,bag,A1,,0,,"Micronised 200 mesh, ~500 g pouch"
+3,Stainless mesh skimmer basket,Utensil,Strainers,1,pcs,A1,,0,,Fine-mesh frying/blanching basket
+4,Small clear storage container with lid,Storage,Containers,1,pcs,A1,,0,,"Round, screw-top"
+5,Black rectangular serving tray,Tableware,Serving Ware,1,pcs,A1,,0,,Wood-effect
+6,Stainless colander (large),Utensil,Strainers,1,pcs,A1,,0,,
+7,Plastic colander / strainer bowl,Utensil,Strainers,3,pcs,A1,,0,,"Grey and white, nesting"
+8,White plastic mixing bowl (large),Cookware,Mixing Bowls,2,pcs,A1,,0,,
+9,White plastic round tray / plate,Tableware,Serving Ware,3,pcs,A1,,0,,
+10,White ribbed draining basket,Utensil,Strainers,2,pcs,A1,,0,,One was drying at the sink when recorded
+11,Stainless saucepan with lid,Cookware,Pots & Pans,5,pcs,A2,,0,,Includes 2 that were drying at the sink
+12,Stainless stockpot (Silit),Cookware,Pots & Pans,1,pcs,A2,,0,,
+13,Stainless frying pan,Cookware,Pots & Pans,1,pcs,A2,,0,,Transtherm base
+14,Glass pot lid,Cookware,Lids,4,pcs,A2,,0,,"Assorted diameters, stored upright in rack"
+15,White plastic pot lid / plate,Cookware,Lids,4,pcs,A2,,0,,Upper tier of the pull-out
+16,Dinner plate (white),Tableware,Plates & Bowls,8,pcs,A3,,0,,
+17,Ceramic tureen with lid (lotus pattern),Tableware,Serving Ware,1,pcs,A3,,0,,
+18,Oval serving platter with lid (white),Tableware,Serving Ware,2,pcs,A3,,0,,
+19,"Side plate, pink-rim floral",Tableware,Plates & Bowls,6,pcs,A3,,0,,
+20,"Dinner plate, blue-rim",Tableware,Plates & Bowls,4,pcs,A3,,0,,
+21,Glass pot lid,Cookware,Lids,2,pcs,A3,,0,,
+22,Stainless steamer insert,Cookware,Steamers,1,pcs,A3,,0,,
+23,Pedal bin with liner,Cleaning,Waste,1,pcs,A4,,0,,"Kitchen bin, currently in use"
+24,Sunlight dishwashing liquid,Cleaning,Cleaning Supplies,1,bottle,A4,,0,,"~750 ml, about half full"
+25,Dishwasher detergent (blue pack),Cleaning,Cleaning Supplies,1,pack,A4,,0,,
+26,Spray cleaner (white bottle),Cleaning,Cleaning Supplies,1,bottle,A4,,0,,
+27,Plastic food container with lid (large),Storage,Containers,2,pcs,A4,,0,,
+28,Bin liners / plastic bags,Cleaning,Waste,1,pack,A4,,0,,Loose roll in the pull-out basket
+29,Glass storage jar with brown lid,Storage,Containers,1,pcs,A4,,0,,
+30,"Soup bowl (white, large)",Tableware,Plates & Bowls,7,pcs,B1,,0,,Includes bowls returned from the dish dryer
+31,Gravy boat / creamer (white),Tableware,Serving Ware,1,pcs,B1,,0,,
+32,Green plastic food container set,Storage,Containers,1,set,B1,,0,,"Bagged, unopened"
+33,Hafele 2-tier dish rack,Storage,Fixtures,1,pcs,B1,,0,,Built-in pull-down rack
+34,Rice bowl (white),Tableware,Plates & Bowls,20,pcs,B2,,0,,Includes bowls returned from the dish dryer
+35,Rice bowl (blue floral),Tableware,Plates & Bowls,4,pcs,B2,,0,,
+36,Rice bowl (pink floral),Tableware,Plates & Bowls,4,pcs,B2,,0,,
+37,Saucer / small plate (white),Tableware,Plates & Bowls,14,pcs,B2,,0,,Includes saucers returned from the dish dryer
+38,"Side plate, pink-rim",Tableware,Plates & Bowls,6,pcs,B2,,0,,
+39,"Dinner plate (white, scalloped)",Tableware,Plates & Bowls,9,pcs,B2,,0,,Includes plates returned from the dish dryer
+40,Clear plastic lid / cloche,Tableware,Serving Ware,3,pcs,B2,,0,,
+41,Cut-crystal tumbler,Glassware,Drinkware,8,pcs,B3,,0,,
+42,Plain drinking glass,Glassware,Drinkware,6,pcs,B3,,0,,
+43,Glass beer mug,Glassware,Drinkware,3,pcs,B3,,0,,
+44,Ceramic mug (purple / pink),Tableware,Drinkware,3,pcs,B3,,0,,
+45,Red plastic tumbler,Tableware,Drinkware,4,pcs,B3,,0,,
+46,Small white ceramic cup,Tableware,Drinkware,2,pcs,B3,,0,,
+47,Las Palms Mission cling film 30 cm,Household,Food Wrap,1,box,C1,,0,,"Open box, in use"
+48,Las Palms Mission cling film 30 cm x 400 m,Household,Food Wrap,1,box,C1,,0,,Sealed refill box
+49,Wooden chopping board (small),Utensil,Chopping Boards,1,pcs,C1,,0,,
+50,Yellow cleaning cloth,Cleaning,Cleaning Supplies,1,pcs,C1,,0,,
+51,White plastic bucket (food-grade),Storage,Containers,1,pcs,C1,,0,,"~20 L, stored on the top shelf"
+52,Stainless mixing bowl (nesting set),Cookware,Mixing Bowls,4,pcs,C2,,0,,
+53,Stainless stockpot (large),Cookware,Pots & Pans,1,pcs,C2,,0,,
+54,Purple vacuum flask,Drink,Drinkware,1,pcs,C2,,0,,
+55,"Pedal bin (black, lined)",Cleaning,Waste,1,pcs,C2,,0,,"Second bin, kept inside the cabinet"
+56,Glass storage jar with coloured lid,Storage,Containers,5,pcs,D1,,0,,"Green / orange / yellow lids, top shelf"
+57,"Electric kettle (spare, white)",Appliance,Small Appliance,1,pcs,D1,,0,,"Stored, not in daily use"
+58,"Plastic food container, rectangular",Storage,Containers,3,pcs,D1,,0,,
+59,Blue plastic tray / lid,Storage,Containers,1,pcs,D1,,0,,
+60,Round wooden chopping board,Utensil,Chopping Boards,1,pcs,D1,,0,,
+61,Bot (starch or seasoning powder),Food,Dry Goods,1,jar,D1,,0,,Handwritten label reads 'BOT N...' - could not read the full word; please confirm
+62,Empty PET storage jar,Storage,Containers,3,pcs,D1,,0,,
+63,Dark brown sauce (unidentified),Food,Condiment,1,bottle,D1,,0,,1.5 L PET bottle of thick dark brown liquid - possibly caramel sauce (nuoc hang) or a homemade sauce; please confirm
+64,Gold gift box (tea or confectionery),Food,Gifts,1,box,D1,,0,,"Unopened, contents not visible"
+65,Insulated travel mug / coffee tumbler,Drink,Drinkware,6,pcs,D2,,2,,
+66,Protein shaker bottle,Drink,Drinkware,3,pcs,D2,,1,,"Includes a boxed Gymstore shaker, still wrapped"
+67,Sports water bottle,Drink,Drinkware,4,pcs,D2,,2,,Lock&Lock and similar
+68,Wine glass,Glassware,Drinkware,2,pcs,D2,,0,,
+69,Crystal tumbler,Glassware,Drinkware,3,pcs,D2,,0,,
+70,Glass water pitcher with lid,Glassware,Drinkware,2,pcs,D2,,0,,
+71,Ceramic mug (Chagee),Tableware,Drinkware,1,pcs,D2,,0,,
+72,Stainless vacuum flask,Drink,Drinkware,1,pcs,D2,,0,,
+73,"Frying pan, blue ceramic non-stick",Cookware,Pots & Pans,1,pcs,D3,,0,,
+74,"Frying pan, speckled non-stick",Cookware,Pots & Pans,1,pcs,D3,,0,,Visible rust on the rim
+75,"Frying pan, stainless (Scanpan)",Cookware,Pots & Pans,1,pcs,D3,,0,,
+76,Stainless pan lid,Cookware,Lids,1,pcs,D3,,0,,
+77,Stainless stockpot,Cookware,Pots & Pans,1,pcs,D3,,0,,
+78,Stainless steamer set (tiered),Cookware,Steamers,1,set,D3,,0,,
+79,Trung Nguyen Legend ground coffee,Drink,Tea & Coffee,1,bag,D3,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+80,Plastic carrier bags (bundle),Household,Bags,1,bundle,D3,,0,,
+81,"Dinner plate, blue-and-white pattern",Tableware,Plates & Bowls,4,pcs,D4,,0,,
+82,"Cake / serving plate, rose floral",Tableware,Serving Ware,2,pcs,D4,,0,,
+83,Small sauce dish (white),Tableware,Plates & Bowls,12,pcs,D4,,0,,
+84,Small dipping bowl (branded),Tableware,Plates & Bowls,15,pcs,D4,,0,,ACB-branded set
+85,Green ceramic rice bowl,Tableware,Plates & Bowls,6,pcs,D4,,0,,
+86,Oval serving platter (white),Tableware,Serving Ware,2,pcs,D4,,0,,
+87,Spare cutlery set (bagged),Utensil,Cutlery,1,set,D4,,0,,Still in the blue bag
+88,Rice bowl (white),Tableware,Plates & Bowls,10,pcs,D5,,0,,
+89,Saucer (white),Tableware,Plates & Bowls,12,pcs,D5,,0,,
+90,Crystal divided serving dish,Glassware,Serving Ware,1,pcs,D5,,0,,Floral hand-painted
+91,Glass fruit bowl (amber pattern),Glassware,Serving Ware,1,pcs,D5,,0,,
+92,Soup plate / deep plate,Tableware,Plates & Bowls,6,pcs,D5,,0,,
+93,"Dinner plate, blue floral",Tableware,Plates & Bowls,4,pcs,D5,,0,,
+94,Chivas Regal (boxed gift set),Alcohol,Whisky,1,box,E1,,0,,Unopened presentation box
+95,Ballantine's 17 Year Old (boxed),Alcohol,Whisky,1,box,E1,,0,,
+96,Kubota Manju sake (boxed),Alcohol,Sake,1,box,E1,,0,,"Asahi-Shuzo, 720 ml presentation box"
+97,Red Tet gift box (spirits),Alcohol,Gifts,1,box,E1,,0,,"Decorative red gift tube, contents not visible"
+98,Royal Salute 24 Year Old (boxed),Alcohol,Whisky,1,box,E2,,0,,"Special edition, red box"
+99,Royal Salute 21 Year Old Signature Blend (boxed),Alcohol,Whisky,4,box,E2,,2,,"700 ml, 40% ABV"
+100,Chivas Regal XV / 12 gift box,Alcohol,Whisky,1,box,E2,,0,,
+101,Whisky tumbler gift set (bagged),Glassware,Drinkware,2,set,E2,,0,,Still shrink-wrapped
+102,Assorted gift boxes (pink),Household,Gifts,2,box,E2,,0,,Contents not visible
+103,Chivas Regal 18 Year Old (boxed),Alcohol,Whisky,2,box,E3,,1,,
+104,RCR Aria Burgundy wine glasses (6-pack),Glassware,Drinkware,1,box,E3,,0,,"Luxion crystal, made in Italy, boxed"
+105,Kitchen paper towel roll,Household,Paper Goods,2,roll,E4,,1,,
+106,Cleaning cloth roll (yellow),Cleaning,Cleaning Supplies,1,roll,E4,,0,,
+107,Dried rice vermicelli (bun kho),Food,Dry Goods,4,bag,E4,2027-02-28,1,,Expiry estimated; no printed date on the packaging
+108,Dried glass noodles (mien),Food,Dry Goods,2,bag,E4,2027-02-28,1,,Expiry estimated; no printed date on the packaging
+109,Rice paper (banh trang),Food,Dry Goods,2,pack,E4,2027-01-31,1,,Expiry estimated; no printed date on the packaging
+110,Dried mushrooms,Food,Dry Goods,1,bag,E4,2027-01-31,0,,In a blue plastic bag; Expiry estimated; no printed date on the packaging
+111,Dried mung beans,Food,Dry Goods,1,bag,E4,2027-01-31,0,,Orange mesh bag; Expiry estimated; no printed date on the packaging
+112,Ziploc Slider storage bags (166 ct),Household,Bags,1,box,E4,,0,,Variety pack
+113,Shallots,Food,Produce,1,bag,E4,2026-09-15,0,,Mesh bag in the bottom basket; Expiry estimated; no printed date on the packaging
+114,Taro / root vegetables,Food,Produce,1,bag,E4,2026-09-01,0,,"Dark mesh bag, bottom basket; Expiry estimated; no printed date on the packaging"
+115,"Instant food packets (red box, 20 ct)",Food,Snacks,1,box,E4,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+116,Plastic carrier bags (bundle),Household,Bags,1,bundle,E4,,0,,
+117,"Disposable gloves (TPE, size M, 50 ct)",Household,Paper Goods,2,box,E5,,1,,
+118,Tissue box with floral cover,Household,Paper Goods,1,pcs,E5,,0,,
+119,Rice,Food,Dry Goods,1,bag,E5,2027-01-31,0,,Expiry estimated; no printed date on the packaging
+120,Seaweed / green snack pack,Food,Snacks,2,bag,E5,2026-12-31,1,,Expiry estimated; no printed date on the packaging
+121,"Food storage canister (red, rose-gold lid)",Storage,Containers,1,pcs,E5,,0,,
+122,"Food storage canister (white, rose-gold lid)",Storage,Containers,1,pcs,E5,,0,,
+123,Assorted spice / seasoning shakers,Food,Condiment,6,bottle,E5,2027-06-30,2,,Pink and red-capped bottles; Expiry estimated; no printed date on the packaging
+124,Sesame seeds,Food,Condiment,1,jar,E5,2027-03-31,0,,Expiry estimated; no printed date on the packaging
+125,Chilli powder,Food,Condiment,1,jar,E5,2027-03-31,0,,Expiry estimated; no printed date on the packaging
+126,Dark sauce / ferment in glass jar,Food,Condiment,1,jar,E5,2026-12-31,0,,Contents not clearly visible; Expiry estimated; no printed date on the packaging
+127,Gold gift box (tea),Drink,Tea & Coffee,1,box,E5,,0,,
+128,Tea gift box (dark purple),Drink,Tea & Coffee,1,box,E5,,0,,
+129,Chilli or shrimp paste (red-lid jars),Food,Condiment,2,jar,E5,2026-12-31,1,,Expiry estimated; no printed date on the packaging
+130,"Vietnamese snack bag (large, green)",Food,Snacks,1,bag,E5,2026-11-30,0,,Expiry estimated; no printed date on the packaging
+131,Roasted powder / spice (red-lid jar),Food,Condiment,1,jar,E5,2027-03-31,0,,Bottom basket; Expiry estimated; no printed date on the packaging
+132,WMF boxed kitchen item,Cookware,Gifts,1,box,E5,,0,,"Sealed, contents not visible"
+133,C-Project gift boxes,Household,Gifts,2,box,E5,,0,,
+134,Celadon ceramic bowl,Tableware,Plates & Bowls,1,pcs,E5,,0,,
+135,Cooking oil (glass bottle),Food,Condiment,1,bottle,E5,2027-03-31,0,,Expiry estimated; no printed date on the packaging
+136,Paper napkins,Household,Paper Goods,1,pack,E5,,0,,
+137,Honey,Food,Condiment,2,bottle,F1,2027-08-04,1,,Expiry estimated; no printed date on the packaging
+138,Oats / cereal (gold-lid tin),Food,Dry Goods,1,tin,F1,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+139,Mangoes,Food,Produce,4,pcs,F1,2026-08-11,2,,"Blue bag, top shelf; Expiry estimated; no printed date on the packaging"
+140,Tofu,Food,Dairy & Eggs,2,tub,F1,2026-08-07,1,,Expiry estimated; no printed date on the packaging
+141,Leftovers in yellow container,Food,Leftovers,1,tub,F1,2026-08-07,0,,Contents not visible; expiry estimated conservatively
+142,Leftovers in pink container,Food,Leftovers,1,tub,F1,2026-08-07,0,,Contents not visible; expiry estimated conservatively
+143,Red floral tin (tea or sweets),Food,Snacks,1,tin,F1,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+144,Roshen Candy Nut nougat,Food,Snacks,1,box,F1,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+145,Collagen X Vitamin C Synergy (JM Solution),Supplement,Skincare,1,box,F1,2027-06-30,0,,Sheet-mask / skincare box stored chilled; Expiry estimated; no printed date on the packaging
+146,Derm'ah Matrix mask box,Supplement,Skincare,1,box,F1,2027-06-30,0,,Expiry estimated; no printed date on the packaging
+147,Supplement bottles (white),Supplement,Vitamins,4,bottle,F1,2027-06-30,1,,Labels not readable; Expiry estimated; no printed date on the packaging
+148,Butter / cream tub,Food,Dairy & Eggs,1,tub,F1,2026-09-15,0,,Expiry estimated; no printed date on the packaging
+149,Limes,Food,Produce,1,bag,F1,2026-08-18,0,,Green bag; Expiry estimated; no printed date on the packaging
+150,Green apples / guava,Food,Produce,1,bag,F1,2026-08-14,0,,Expiry estimated; no printed date on the packaging
+151,Plums,Food,Produce,1,bag,F1,2026-08-11,0,,Blue bag; Expiry estimated; no printed date on the packaging
+152,Leafy greens (bagged),Food,Produce,2,bag,F1,2026-08-08,1,,Expiry estimated; no printed date on the packaging
+153,Cantaloupe melon,Food,Produce,1,pcs,F1,2026-08-11,0,,Expiry estimated; no printed date on the packaging
+154,"Watermelon (cut half, wrapped)",Food,Produce,1,pcs,F1,2026-08-07,0,,Expiry estimated; no printed date on the packaging
+155,Pickled fruit (jar),Food,Condiment,1,jar,F1,2026-11-30,0,,Expiry estimated; no printed date on the packaging
+156,Korean red ginseng extract (6-year),Supplement,Vitamins,1,box,F1,2027-06-30,0,,Expiry estimated; no printed date on the packaging
+157,L-Carnitine energy drink,Drink,Soft Drinks,1,can,F1,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+158,Water filter pitcher (5 L),Appliance,Water,1,pcs,F1,,0,,Anti-bacteria BPA-free jug
+159,Dried chillies,Food,Dry Goods,1,bag,F1,2027-01-31,0,,Top door bin; Expiry estimated; no printed date on the packaging
+160,Chilli sauce,Food,Condiment,2,bottle,F1,2027-01-31,1,,Expiry estimated; no printed date on the packaging
+161,Sriracha / hot sauce,Food,Condiment,1,bottle,F1,2027-01-31,0,,Expiry estimated; no printed date on the packaging
+162,Japanese furikake seasoning,Food,Condiment,1,box,F1,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+163,Tomato ketchup,Food,Condiment,1,bottle,F1,2027-01-31,0,,Expiry estimated; no printed date on the packaging
+164,Honey squeeze bottle,Food,Condiment,1,bottle,F1,2027-08-04,0,,Expiry estimated; no printed date on the packaging
+165,Korean pork marinade / gochujang,Food,Condiment,1,jar,F1,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+166,Ong Tho condensed milk,Food,Dairy & Eggs,1,tube,F1,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+167,Mayonnaise squeeze bottle,Food,Condiment,1,bottle,F1,2026-11-30,0,,Expiry estimated; no printed date on the packaging
+168,Spring onions / leeks,Food,Produce,1,bag,F1,2026-08-09,0,,Door bin; Expiry estimated; no printed date on the packaging
+169,Eggs (chicken and duck),Food,Dairy & Eggs,20,pcs,F1,2026-09-03,6,,Expiry estimated; no printed date on the packaging
+170,Fresh rice noodle sheet (banh pho),Food,Fresh Noodles,1,pack,F1,2026-08-06,0,,Expiry estimated; no printed date on the packaging
+171,Milk carton,Food,Dairy & Eggs,1,carton,F1,2026-08-12,0,,Expiry estimated; no printed date on the packaging
+172,Dried squid,Food,Meat & Seafood,1,pack,F2,2026-12-31,0,,Vacuum pack; Expiry estimated; no printed date on the packaging
+173,Dried anchovies (small fish),Food,Meat & Seafood,1,bag,F2,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+174,Vietnamese pork sausage (nem / xuc xich),Food,Meat & Seafood,1,pack,F2,2026-08-20,0,,Vacuum pack; Expiry estimated; no printed date on the packaging
+175,"Green vegetables (chilled, Ziploc)",Food,Produce,1,bag,F2,2026-08-09,0,,Expiry estimated; no printed date on the packaging
+176,Himalayan salt,Food,Condiment,1,box,F2,,0,,"Boxed, stored in the drawer"
+177,Canned drinks / canned food (yellow cans),Drink,Soft Drinks,4,can,F2,2027-01-31,2,,Labels not readable; Expiry estimated; no printed date on the packaging
+178,Marinated meat (black vacuum bags),Food,Meat & Seafood,3,pack,F3,2026-08-08,1,,Handwritten label not fully legible; expiry estimated
+179,Beef or pork steak (vacuum pack),Food,Meat & Seafood,1,pack,F3,2026-08-08,0,,Expiry estimated; no printed date on the packaging
+180,Dried seeds / grains,Food,Dry Goods,1,pack,F3,2027-01-31,0,,Expiry estimated; no printed date on the packaging
+181,Chicken breast fillets (frozen),Food,Frozen,6,pack,F4,2026-11-04,2,,Vacuum packed; Expiry estimated; no printed date on the packaging
+182,Salmon steaks (frozen),Food,Frozen,6,pcs,F4,2026-11-04,2,,Expiry estimated; no printed date on the packaging
+183,Whole fish (frozen),Food,Frozen,1,pack,F4,2026-11-04,0,,Mackerel / scad; Expiry estimated; no printed date on the packaging
+184,Frozen pork,Food,Frozen,1,bag,F4,2026-11-04,0,,Expiry estimated; no printed date on the packaging
+185,Frozen vegetables,Food,Frozen,1,pack,F4,2027-02-04,0,,Expiry estimated; no printed date on the packaging
+186,Auto-ice tray (ice cubes),Food,Frozen,1,tray,F4,,0,,Built-in ice maker tray
+187,Frozen minced pork / patties,Food,Frozen,1,bag,F5,2026-11-04,0,,Expiry estimated; no printed date on the packaging
+188,Frozen meat blocks,Food,Frozen,2,bag,F5,2026-11-04,1,,Expiry estimated; no printed date on the packaging
+189,Frozen mixed vegetables (Ziploc),Food,Frozen,2,bag,F5,2027-02-04,1,,Expiry estimated; no printed date on the packaging
+190,Frozen dumplings / banh,Food,Frozen,1,bag,F5,2026-11-04,0,,Expiry estimated; no printed date on the packaging
+191,ms.Slim black rice (com do duong) 36 g,Food,Dry Goods,1,pack,F5,2027-02-04,0,,Expiry estimated; no printed date on the packaging
+192,Frozen herbs and greens,Food,Frozen,2,bag,F5,2026-11-04,1,,Expiry estimated; no printed date on the packaging
+193,Ceramic teapot (white),Tableware,Tea & Coffee Ware,12,pcs,G1,,0,,
+194,Decorative gold-rim teapot,Tableware,Tea & Coffee Ware,1,pcs,G1,,0,,
+195,Stainless spoons and forks,Utensil,Cutlery,20,pcs,G1,,0,,Stored in a cutlery tray
+196,Coffee filter parts (black),Appliance,Tea & Coffee Ware,3,pcs,G1,,0,,Portafilter baskets / filter holders
+197,Plastic measuring jug,Utensil,Measuring,1,pcs,G1,,0,,
+198,Round wooden chopping block,Utensil,Chopping Boards,1,pcs,G2,,0,,Heavy end-grain block
+199,Gift bag (check pattern),Household,Gifts,1,pcs,G2,,0,,
+200,Gift wrap and paper bags,Household,Gifts,2,pcs,G2,,0,,
+201,Kitchen tongs (stainless),Utensil,Cooking Tools,2,pcs,G3,,0,,
+202,"Stainless cutlery (knives, forks, spoons)",Utensil,Cutlery,12,pcs,G3,,0,,
+203,Disposable plastic spoons and forks,Household,Disposables,1,pack,G3,,0,,
+204,Potato masher,Utensil,Cooking Tools,1,pcs,G3,,0,,
+205,Box grater / slicer,Utensil,Cooking Tools,1,pcs,G3,,0,,
+206,Victorinox vegetable peeler,Utensil,Cooking Tools,2,pcs,G3,,0,,"One green, one blue"
+207,Kitchen scissors,Utensil,Cooking Tools,1,pcs,G3,,0,,
+208,Microfibre cleaning cloth,Cleaning,Cleaning Supplies,5,pcs,G3,,2,,
+209,Com Tho Anh Nguyen seasoning packet,Food,Condiment,1,pack,G3,2026-12-31,0,,Expiry estimated; no printed date on the packaging
+210,Wooden chopsticks,Utensil,Cutlery,10,pair,G3,,0,,Mother-of-pearl handles; returned from the dish dryer
+211,Zojirushi rice paddle,Utensil,Cooking Tools,1,pcs,G3,,0,,Returned from the dish dryer
+212,Stainless colander (large),Utensil,Strainers,1,pcs,G4,,0,,
+213,Wooden pestle,Utensil,Cooking Tools,1,pcs,G4,,0,,
+214,Wooden mortar,Utensil,Cooking Tools,1,pcs,G4,,0,,
+215,Las Palms Mission PVC food wrap 30 cm x 400 m,Household,Food Wrap,2,box,G4,,1,,"One sealed, one open"
+216,Sunlight spray cleaner,Cleaning,Cleaning Supplies,1,bottle,G4,,0,,
+217,Fine mesh strainer (gold rim),Utensil,Strainers,2,pcs,G4,,0,,
+218,Plastic carrier bags (bundle),Household,Bags,1,bundle,G4,,0,,
+219,Cleaver (dao phay),Utensil,Knives,3,pcs,G5,,0,,
+220,Chef's knife,Utensil,Knives,1,pcs,G5,,0,,
+221,Santoku knife,Utensil,Knives,1,pcs,G5,,0,,
+222,Bread knife (serrated),Utensil,Knives,1,pcs,G5,,0,,
+223,Paring / utility knife,Utensil,Knives,1,pcs,G5,,0,,
+224,Vita Organica sunflower oil 1 L,Food,Condiment,1,bottle,G5,2027-06-30,0,,"Non-GMO, about 3/4 full; Expiry estimated; no printed date on the packaging"
+225,Bot canh (seasoning salt) shaker,Food,Condiment,1,jar,G5,2027-06-30,0,,Labelled by the owner as bot canh
+226,Garlic / chilli grinder (may xay toi ot),Appliance,Small Appliance,1,pcs,G5,,0,,Manual hand grinder
+227,Sugar (duong),Food,Condiment,0.25,jar,G5,2027-06-30,0.5,,"Large jar, running low - about a quarter full"
+228,Fish sauce (nuoc mam Tran Van Huong),Food,Condiment,1,bottle,G5,2027-06-30,0,,"Cot co dac, about half full; Expiry estimated; no printed date on the packaging"
+229,"Cholimex soy sauce (nuoc tuong dau nanh, reduced salt)",Food,Condiment,1,bottle,G5,2027-06-30,0,,Expiry estimated; no printed date on the packaging
+230,Salt (muoi),Food,Condiment,2,jar,G5,,1,,Two jars; the smaller one is nearly empty
+231,Iodised salt (muoi iot),Food,Condiment,1,jar,G5,,0,,
+232,Ground pepper shaker,Food,Condiment,1,pcs,G5,2027-06-30,0,,Expiry estimated; no printed date on the packaging
+233,KELA knife block,Storage,Knives,1,pcs,CT1,,0,,
+234,Utensil holder (KELA),Storage,Cooking Tools,1,pcs,CT1,,0,,
+235,Stainless ladle,Utensil,Cooking Tools,1,pcs,CT1,,0,,In the utensil holder
+236,Skimmer / perforated spoon,Utensil,Cooking Tools,1,pcs,CT1,,0,,In the utensil holder
+237,Slotted turner (black),Utensil,Cooking Tools,1,pcs,CT1,,0,,In the utensil holder
+238,Mesh strainer spoon,Utensil,Strainers,1,pcs,CT1,,0,,In the utensil holder
+239,Wooden cooking spoon,Utensil,Cooking Tools,2,pcs,CT1,,0,,In the utensil holder
+240,Kitchen scissors (large),Utensil,Cooking Tools,1,pcs,CT1,,0,,In the knife block
+241,Cutting board (white plastic),Utensil,Chopping Boards,1,pcs,CT1,,0,,
+242,Cutting board (red and black),Utensil,Chopping Boards,1,pcs,CT1,,0,,
+243,"Kitchen knife, wooden handle",Utensil,Knives,6,pcs,CT1,,0,,Loose on the counter beside the block
+244,Stainless steamer pot with lid,Cookware,Steamers,1,pcs,CT1,,0,,
+245,Dish soap / detergent bottle,Cleaning,Cleaning Supplies,1,bottle,CT1,,0,,At the sink
+246,Yellow scrubbing net,Cleaning,Cleaning Supplies,1,pcs,CT1,,0,,
+247,Sink drying rack,Storage,Fixtures,1,pcs,CT1,,0,,
+248,Dish dryer / sterilizer cabinet,Appliance,Large Appliance,1,pcs,CT1,,0,,Contents redistributed to their home cabinets
+249,Philips air fryer,Appliance,Small Appliance,1,pcs,CT2,,0,,
+250,ecoco rice dispenser / storage bin,Appliance,Storage,1,pcs,CT2,,0,,
+251,Zojirushi rice cooker,Appliance,Small Appliance,1,pcs,CT2,,0,,"Made in Japan, micom"
+252,Korona electric kettle,Appliance,Small Appliance,1,pcs,CT2,,0,,Cream enamel finish
+253,Dat Tuong slow cooker (ceramic),Appliance,Small Appliance,1,pcs,CT2,,0,,
+254,Philips ProBlend blender,Appliance,Small Appliance,1,pcs,CT2,,0,,
+255,Enagic LeveLuk K8 water ionizer,Appliance,Water,1,pcs,CT2,,0,,"Kangen water system, wall-mounted over the counter"
+256,KELA dish drying rack,Storage,Fixtures,1,pcs,CT2,,0,,
+257,Cutlery holder (grey),Storage,Cutlery,1,pcs,CT2,,0,,
+258,Bottle brush / sponge brush,Cleaning,Cleaning Supplies,1,pcs,CT2,,0,,
+259,Metal drinking straw with cleaning brush,Drink,Drinkware,1,set,CT2,,0,,
+260,Spare blender jug with lids,Appliance,Small Appliance,1,set,CT2,,0,,Lilac Philips jug plus assorted lids
+261,Food storage container (lilac / pink),Storage,Containers,1,pcs,CT2,,0,,
+262,Griddle plate / hob lid (black),Cookware,Pots & Pans,1,pcs,CT2,,0,,
+263,Glassware in the drying rack,Glassware,Drinkware,6,pcs,CT2,,0,,"Crystal tumblers, teapot and green bowl drying - they live in B3 and B2"
+264,PVL Gold Series ISOGOLD whey protein isolate 2.27 kg,Supplement,Protein Powder,1,tub,CT3,2027-06-30,0,,"Vanilla milkshake flavour, 5 lb; Expiry estimated; no printed date on the packaging"
+265,Digital pocket scale,Appliance,Measuring,1,pcs,CT3,,0,,
+266,Bamboo brush (tea whisk / pastry brush),Utensil,Cooking Tools,1,pcs,CT3,,0,,
